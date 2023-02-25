@@ -38,7 +38,7 @@ Unsupervised learning methods have been applied such as PCA and Clustering algor
 
 Author: Narimen HB 
 
-From personal portfolio/final capston <HyperionDev Data Science Boot Camp>
+From personal portfolio/final capston/HyperionDev Data Science Boot Camp
 
 Dataset: UsArrests.csv (from Kaggle).
 
